@@ -46,7 +46,7 @@
 #define SSID			"etfbl.net"
 #define PASSWORD		""
 #define CONNECTION_TYPE	"TCP"
-#define HOST			"10.99.175.169"
+#define HOST			"10.99.10.10"
 #define PORT			80
 
 #define MESSAGE_START 	"start"
